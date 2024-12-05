@@ -1,0 +1,100 @@
+1,Producto 1,zapatilla,10.50,37
+2,Producto 2,camiseta,15.00,4
+3,Producto 3,pantalón,25.75,51
+4,Producto 4,chaqueta,45.99,32
+5,Producto 5,gorra,8.30,82
+6,Producto 6,bufanda,12.00,59
+7,Producto 7,calcetines,5.50,23
+8,Producto 8,mochila,30.20,45
+9,Producto 9,reloj,50.00,30
+10,Producto 10,gafas de sol,22.10,9
+11,Producto 11,botas,60.50,54
+12,Producto 12,camisa,35.40,8
+13,Producto 13,jeans,40.75,68
+14,Producto 14,chaqueta impermeable,55.00,42
+15,Producto 15,guantes,15.80,17
+16,Producto 16,corbata,18.25,34
+17,Producto 17,vestido,70.50,11
+18,Producto 18,falda,35.00,59
+19,Producto 19,chaleco,25.99,78
+20,Producto 20,sandalias,20.50,29
+21,Producto 21,zapatillas deportivas,75.00,66
+22,Producto 22,blusa,28.40,19
+23,Producto 23,bolso,45.00,69
+24,Producto 24,cartera,25.75,37
+25,Producto 25,cinturón,12.90,16
+26,Producto 26,ropa interior,10.50,93
+27,Producto 27,polera,18.00,15
+28,Producto 28,botines,48.00,58
+29,Producto 29,zapatos de vestir,65.00,77
+30,Producto 30,buzo,30.00,63
+31,Producto 31,sudadera,40.50,41
+32,Producto 32,pijama,20.75,56
+33,Producto 33,ropa de baño,15.00,81
+34,Producto 34,chaqueta de cuero,80.00,50
+35,Producto 35,pulsera,12.00,7
+36,Producto 36,collar,25.50,26
+37,Producto 37,aretes,15.75,97
+38,Producto 38,anillo,35.99,74
+39,Producto 39,broche,10.20,90
+40,Producto 40,gorra de béisbol,18.75,46
+41,Producto 41,camiseta sin mangas,15.25,28
+42,Producto 42,leggins,22.50,36
+43,Producto 43,shorts,20.00,24
+44,Producto 44,zapatillas de correr,70.00,8
+45,Producto 45,chaqueta polar,60.00,31
+46,Producto 46,bufanda de lana,18.00,84
+47,Producto 47,guantes de cuero,25.50,54
+48,Producto 48,sombrero,28.00,18
+49,Producto 49,zapatos casuales,50.00,65
+50,Producto 50,maleta,100.00,20
+51,Producto 51,portafolio,75.00,67
+52,Producto 52,camiseta deportiva,20.50,29
+53,Producto 53,pantalón de vestir,40.00,46
+54,Producto 54,abrigo,90.00,33
+55,Producto 55,zapatos de tacón,65.00,48
+56,Producto 56,alpargatas,30.00,91
+57,Producto 57,camiseta polo,25.00,44
+58,Producto 58,ropa térmica,35.00,85
+59,Producto 59,camiseta de algodón,18.00,13
+60,Producto 60,zapatos de cuero,70.00,8
+61,Producto 61,zapatos informales,50.00,72
+62,Producto 62,faja,15.00,94
+63,Producto 63,correa,20.00,11
+64,Producto 64,camiseta con estampado,22.50,75
+65,Producto 65,chaqueta formal,75.00,3
+66,Producto 66,camiseta básica,10.00,69
+67,Producto 67,jeans rotos,45.00,4
+68,Producto 68,chaleco acolchado,55.00,87
+69,Producto 69,pantalón cargo,35.00,47
+70,Producto 70,sneakers,80.00,99
+71,Producto 71,blazer,70.00,41
+72,Producto 72,calcetines térmicos,12.00,86
+73,Producto 73,camisón,25.00,39
+74,Producto 74,sandalias de cuero,40.00,62
+75,Producto 75,zapatillas de casa,15.00,100
+76,Producto 76,zapatos escolares,30.00,70
+77,Producto 77,bata,35.00,49
+78,Producto 78,sujetador,20.00,38
+79,Producto 79,braguita,10.00,82
+80,Producto 80,ropa de ciclismo,75.00,5
+81,Producto 81,guantes de lana,15.00,96
+82,Producto 82,bufanda térmica,20.00,92
+83,Producto 83,zapatos formales,65.00,51
+84,Producto 84,pantalón chino,40.00,24
+85,Producto 85,sudadera con capucha,35.00,89
+86,Producto 86,zapatos de senderismo,90.00,53
+87,Producto 87,botas de nieve,100.00,25
+88,Producto 88,camiseta de tirantes,12.50,1
+89,Producto 89,zapatos de agua,25.00,43
+90,Producto 90,chaleco reflectante,18.00,98
+91,Producto 91,camisa de franela,30.00,66
+92,Producto 92,zapatillas de lona,20.00,15
+93,Producto 93,jersey de punto,45.00,32
+94,Producto 94,pantalón de chándal,35.00,27
+95,Producto 95,zapatos de baile,60.00,83
+96,Producto 96,camisa hawaiana,25.00,9
+97,Producto 97,paraguas,15.00,21
+98,Producto 98,botas impermeables,50.00,52
+99,Producto 99,sandalias deportivas,30.00,99
+100,Producto 100,gafas deportivas,40.00,61
